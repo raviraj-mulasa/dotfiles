@@ -1,0 +1,44 @@
+# Operating System files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+ehthumbs.db
+.AppleDouble
+.LSOverride
+
+# Backup & scratch directories
+.ai-config-backup/
+**/.ai-config-backup/
+test-sandbox-suite/
+*.tmp
+*~
+
+# Python cache & virtualenvs
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Node / Frontend
+node_modules/
+dist/
+
+# Rust
+/target/
+
+# Java
+*.class
+target/
+.gradle/
+build/
+
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub/
+
+# Secrets & Local env
+.env
+.env.local
+*.local
